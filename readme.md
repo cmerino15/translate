@@ -1,7 +1,12 @@
 
-# Matrix batch file
+# Translate App - a python and batch file
 
-A simple batch file that changes the color on the command line and then shows the user and system info
+A simple python file that opens google translates and return the translation of an english phrase in 3 different languages
 
-To run simply open the terminal in the folder where matrix.bat is located and run matrix.bat
+A batch file is included to run the python script from the command line
 
+To run type `$ translate "some phrase" ` in the terminal
+
+# Todo
+
+1. Allow the user to limit the languages used
