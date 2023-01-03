@@ -1,2 +1,2 @@
-@py.exe ".\translate.py" %* 
+@py.exe "documents\batch\translate\translate.py" %* 
 @pause
