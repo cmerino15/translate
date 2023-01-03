@@ -5,6 +5,8 @@ A simple python file that opens google translates and return the translation of 
 
 A batch file is included to run the python script from the command line
 
+Make sure you have the environment path set correctly ( documents\batch\translate if you cloned to a documents\batch)
+
 To run type `$ translate "some phrase" ` in the terminal
 
 # Todo
