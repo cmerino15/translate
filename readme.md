@@ -9,6 +9,8 @@ Make sure you have the environment path set correctly ( documents\batch\translat
 
 To run type `$ translate "some phrase" ` in the terminal
 
+![example](example/translate.png)
+
 # Todo
 
 1. Allow the user to limit the languages used
