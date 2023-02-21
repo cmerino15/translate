@@ -13,8 +13,7 @@ To run type `$ translate "some phrase" ` in the terminal
 
 # Todo
 
-1. Allow the user to limit the languages used
-2. Return results to terminal
+1. Allow the user to limit the languages used\
 
 * I created this program because I found it tedious to keep opening google translate over and over again
 * I hope you find it as helpful as I did
