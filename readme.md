@@ -1,5 +1,5 @@
 
-# Translate App - a python and batch file
+# Translate App
 
 A simple python program that opens google translate and returns the translation of an english phrase in 3 different languages
 
